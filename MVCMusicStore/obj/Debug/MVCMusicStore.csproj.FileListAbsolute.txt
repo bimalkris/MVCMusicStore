@@ -1,0 +1,6 @@
+c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.dll
+c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.pdb
+c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\bin\EntityFramework.dll
+c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\bin\EntityFramework.xml
+c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.dll
+c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.pdb
