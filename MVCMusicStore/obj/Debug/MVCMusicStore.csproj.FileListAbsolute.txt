@@ -4,3 +4,10 @@ c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStor
 c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\bin\EntityFramework.xml
 c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.dll
 c:\users\u29365\documents\visual studio 2010\Projects\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.pdb
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.dll
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.pdb
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\bin\EntityFramework.dll
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\bin\EntityFramework.xml
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.dll
+C:\Users\u29365\Documents\GitHub\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.pdb
